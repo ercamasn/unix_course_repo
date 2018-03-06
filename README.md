@@ -27,3 +27,5 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://images.template.net/wp-content/uploads/2016/10/Almond-tropical-flower-Drawing.jpg)
 
+![Here is a pretty picture.](http://www.fubiz.net/wp-content/uploads/2016/07/limzhei-2-900x900.jpg)
+
