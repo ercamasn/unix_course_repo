@@ -27,4 +27,3 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://images.template.net/wp-content/uploads/2016/10/Almond-tropical-flower-Drawing.jpg)
 
-nano README.md
